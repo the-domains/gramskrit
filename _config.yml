@@ -1,4 +1,3 @@
-layout_spectrum: 0.2664985198061913
 typography_spectrum: 0.15496282861568034
 color:
   brandStrength: 0.8759737415239215
@@ -11,4 +10,15 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+opengraph:
+  appId: '1031337646925547'
+  type: post
+  image: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/64bf11b6-83cd-454c-9ebe-5187c7481d9b.jpg'
+layout_spectrum: 0.2664985198061913
+author:
+  name: Graham
+  email: graham@gramskrit.com
+  url: 'http://gramskrit.com'
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f58348d-8dcc-4573-8ed4-332fe5abad30.svg'
 name: GRAMSKRIT
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/61d838ea-a91a-4c9a-a100-727360a61b93.png'
